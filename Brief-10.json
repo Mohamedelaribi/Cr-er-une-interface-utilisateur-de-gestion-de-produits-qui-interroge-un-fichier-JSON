@@ -2,8 +2,8 @@
     "produits.json":[
         {
             "id":100 ,
-            "désignation":"zara",
-            "prix":"120",
+            "désignation":"POCKET OVERSHIRT",
+            "prix":"280",
             "catégorie":"homme",
             "disponibilité":[
                 "Tanger",
@@ -11,12 +11,358 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"",
+                "raison social":"zara",
                 "adresse":"Esp"
             }
             
+        },
 
+
+        {
+            "id":101 ,
+            "désignation":"OVERSHIRT WITH PATCH",
+            "prix":"280",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+        {
+            "id":102 ,
+            "désignation":"STRAIGHT FIT JEANS",
+            "prix":"150",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+        {
+            "id":103 ,
+            "désignation":"RIPPED LOOSE FIT JEANS",
+            "prix":"150",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+        {
+            "id":104 ,
+            "désignation":"SLIM FIT JEANS WITH ZIPPERS",
+            "prix":"180",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+        {
+            "id":105 ,
+            "désignation":"RETRO HIGH TOP SNEAKERS",
+            "prix":"190",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":106 ,
+            "désignation":"MULTI-COLOR RUNNING-STYLE SHOES",
+            "prix":"240",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+        },
+
+
+
+        {
+            "id":107 ,
+            "désignation":"RETRO LEATHER SNEAKERS",
+            "prix":"150",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+
+
+        {
+            "id":108 ,
+            "désignation":"GOLD BUTTON WOOL BLEND COAT",
+            "prix":"750",
+            "catégorie":"femme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+
+
+        {
+            "id":109 ,
+            "désignation":"GOLD BUTTON WOOL BLEND COAT",
+            "prix":"140",
+            "catégorie":"femme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":110 ,
+            "désignation":"PLEATED WIDE LEG PANTS",
+            "prix":"150",
+            "catégorie":"femme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":111 ,
+            "désignation":"STRIPED CROPPED FLARE JEANS",
+            "prix":"100",
+            "catégorie":"femme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":112 ,
+            "désignation":"PAPERBAG JOGGER PANTS",
+            "prix":"100",
+            "catégorie":"femme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"zara",
+                "adresse":"Esp"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":113 ,
+            "désignation":"COLORBLOCK SPORTY WINDBREAKER",
+            "prix":"100",
+            "catégorie":"enfants",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"Verboudet",
+                "adresse":"FR"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":114 ,
+            "désignation":"KNIT SWEATER PREMIUM",
+            "prix":"150",
+            "catégorie":"enfants",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"Verboudet",
+                "adresse":"FR"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":115 ,
+            "désignation":"Chemise brossée à carreaux - Bordeaux",
+            "prix":"80",
+            "catégorie":"enfants",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"Verboudet",
+                "adresse":"FR"
+            }
+            
+        },
+
+
+
+
+        {
+            "id":116 ,
+            "désignation":"Manteau fille en drap de laine",
+            "prix":"100",
+            "catégorie":"enfants",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"Verboudet ",
+                "adresse":"FR"
+            }
+            
+        },
+        {
+            "id":117 ,
+            "désignation":"Pull à message fille",
+            "prix":"80",
+            "catégorie":"enfants",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"Verboudet",
+                "adresse":"FR"
+            }
+            
+        },
+        {
+            "id":118 ,
+            "désignation":"Pull à message fille",
+            "prix":"100",
+            "catégorie":"efants",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"Verboudet",
+                "adresse":"FR"
+            }
+            
         }
+        
+
         ]
         
     }
