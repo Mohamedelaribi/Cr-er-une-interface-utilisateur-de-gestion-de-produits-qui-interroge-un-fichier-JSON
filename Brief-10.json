@@ -1,6 +1,22 @@
     {
+    "produits.json":[
         {
-            "id":100,
+            "id":100 ,
+            "désignation":"zara",
+            "prix":"120",
+            "catégorie":"homme",
+            "disponibilité":[
+                "Tanger",
+                "Rabat",
+                "Casablanca"
+            ],
+            "fournisseur":{
+                "raison social":"",
+                "adresse":"Esp"
+            }
+            
+
         }
+        ]
         
     }
