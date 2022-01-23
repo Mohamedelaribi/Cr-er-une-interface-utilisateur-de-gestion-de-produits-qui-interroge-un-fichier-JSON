@@ -1,5 +1,5 @@
-    {
-    "produits.json":[
+[
+    
         {
             "id":100 ,
             "désignation":"POCKET OVERSHIRT",
@@ -11,7 +11,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -29,7 +29,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -47,7 +47,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -66,7 +66,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -85,7 +85,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -104,7 +104,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -124,7 +124,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
         },
@@ -142,7 +142,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -163,7 +163,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -184,7 +184,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -204,7 +204,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -224,7 +224,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -244,7 +244,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"zara",
+                "nom social":"zara",
                 "adresse":"Esp"
             }
             
@@ -264,7 +264,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"Verboudet",
+                "nom social":"Verboudet",
                 "adresse":"FR"
             }
             
@@ -284,7 +284,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"Verboudet",
+                "nom social":"Verboudet",
                 "adresse":"FR"
             }
             
@@ -304,7 +304,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"Verboudet",
+                "nom social":"Verboudet",
                 "adresse":"FR"
             }
             
@@ -324,7 +324,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"Verboudet ",
+                "nom social":"Verboudet ",
                 "adresse":"FR"
             }
             
@@ -340,7 +340,7 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"Verboudet",
+                "nom social":"Verboudet",
                 "adresse":"FR"
             }
             
@@ -356,13 +356,13 @@
                 "Casablanca"
             ],
             "fournisseur":{
-                "raison social":"Verboudet",
+                "nom social":"Verboudet",
                 "adresse":"FR"
             }
             
         }
         
 
-        ]
         
-    }
+        
+]
